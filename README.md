@@ -17,4 +17,6 @@
 ![puttySSH](https://github.com/WhatAboutMyStar/PlayRaspberryPi/blob/master/img/puttySSH.png)
 - 成功登录！终于进来了。
 
-![成功登录](https://github.com/WhatAboutMyStar/PlayRaspberryPi/blob/master/img/successful.png)
+![成功登录](https://github.com/WhatAboutMyStar/PlayRaspberryPi/blob/master/img/successful.png) <br>
+
+- 关机命令，sudo shutdown -h now
