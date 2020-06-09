@@ -1,6 +1,7 @@
 # PlayRaspberryPi
 - 记录我玩转树莓派的经历，踩过的坑等等
 - [树莓派连接WiFi的方法](https://github.com/WhatAboutMyStar/PlayRaspberryPi/blob/master/%E6%A0%91%E8%8E%93%E6%B4%BE%E8%BF%9E%E6%8E%A5WiFi.md)
+- [ssh输入密码后出现Access deny](https://github.com/WhatAboutMyStar/PlayRaspberryPi/blob/master/ssh%E8%BE%93%E5%85%A5%E5%AF%86%E7%A0%81%E5%90%8E%E5%87%BA%E7%8E%B0Access%20deny.md)
 
 ### 第一步 从烧录系统到启动树莓派
 这一步我折腾了两天，先说一下我个人情况，我买的是最新的树莓派4，内存4G，有个16G的SD卡，有一根网线，一台笔记本电脑，（注意：我没有给树莓派配鼠标和键盘还有显示器），我的计划是通过网线把笔记本和树莓派互联，在笔记本上远程登录（ssh）到树莓派上，对树莓派进行控制。
